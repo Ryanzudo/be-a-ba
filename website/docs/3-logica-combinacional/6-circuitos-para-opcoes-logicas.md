@@ -1,11 +1,11 @@
 ---
-title: Circuítos para Operações Lógicas
+title: Circuitos para Operações Lógicas
 description: Grupo 17
 ---
 
 # Circuitos para Operações Lógicas
 
-### O são portas lógicas?
+### O que são portas lógicas?
 Portas lógicas são circuitos digitais básicos que recebem uma ou mais entradas binárias e geram uma saída binária. Esses circuitos são representados por símbolos com entradas (ou entrada) e saída indicadas. Normalmente, as entradas aparecem à esquerda (ou no topo) e as saídas à direita (ou na parte inferior). Designers digitais geralmente usam letras do início do alfabeto para as entradas e a letra S ou Q para a saída. A relação entre entradas e saídas pode ser representada por uma tabela-verdade ou uma equação booleana.
 
 A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à direita, com uma linha para cada combinação de entradas. Já a equação booleana é uma expressão matemática usando variáveis binárias.
